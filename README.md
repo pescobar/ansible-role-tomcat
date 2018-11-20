@@ -9,7 +9,7 @@ Install the tomcat tarball and systemd init script
 Role Variables
 --------------
 ```
-tomcat_version: "8.5.27"
+tomcat_version: "8.5.35"
 
 tomcat_major_version: "{{ tomcat_version.split('.')[0] }}"
 
