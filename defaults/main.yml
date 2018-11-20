@@ -1,5 +1,5 @@
 ---
-# defaults file for scicore-tomcat
+# defaults file for ansible-role-tomcat
 
 tomcat_version: "8.5.33"
 

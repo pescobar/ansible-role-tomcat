@@ -1,5 +1,5 @@
 ---
-# tasks file for scicore-tomcat
+# tasks file for ansible-role-tomcat
 
 - name: Add local group for tomcat
   group:

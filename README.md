@@ -1,7 +1,4 @@
-[![pipeline status](https://bc2-gl.bc2.unibas.ch/ansible/ansible-roles/scicore-tomcat/badges/master/pipeline.svg)](https://bc2-gl.bc2.unibas.ch/ansible/ansible-roles/scicore-tomcat/commits/master)
-
-
-scicore-tomcat
+ansible-role-tomcat
 =========
 
 Install the tomcat tarball and systemd init script
@@ -28,7 +25,7 @@ tomcat_group: "tomcat"
 Dependencies
 ------------
 
-Role [scicore-java-oracle](https://bc2-gl.bc2.unibas.ch/ansible/ansible-roles/scicore-java-oracle)
+Role [pescobar.java_oracle](https://galaxy.ansible.com/pescobar/java_oracle)
 
 
 Example Playbook
@@ -36,7 +33,7 @@ Example Playbook
 
     - hosts: servers
       roles:
-         - { role: scicore-tomcat }
+         - { role: pescobar.tomcat }
 
 License
 -------
@@ -46,4 +43,4 @@ GPLv3
 Author Information
 ------------------
 
-Pablo
+Pablo Escobar
