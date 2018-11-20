@@ -47,7 +47,7 @@
 - name: Create a symlink /opt/tomcat
   file:
     src: "{{ tomcat_path }}"
-    dest: "{{tomcat_install_folder }}/tomcat"
+    dest: "{{ tomcat_install_folder }}/tomcat"
     state: link
 
 - name: Copy /etc/systemd/system/tomcat.service
