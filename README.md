@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/pescobar/ansible-role-tomcat.svg?branch=master)](https://travis-ci.org/pescobar/ansible-role-tomcat)
+
 ansible-role-tomcat
 =========
 
