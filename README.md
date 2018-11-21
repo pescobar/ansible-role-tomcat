@@ -1,6 +1,7 @@
 [![Build Status](https://travis-ci.org/pescobar/ansible-role-tomcat.svg?branch=master)](https://travis-ci.org/pescobar/ansible-role-tomcat)
+[![Ansible Galaxy](https://img.shields.io/badge/galaxy-pescobar.tomcat-blue.svg)](https://galaxy.ansible.com/pescobar/tomcat)
 
-ansible-role-tomcat
+pescobar.tomcat
 =========
 
 Install the tomcat tarball and systemd init script
