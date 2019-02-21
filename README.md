@@ -28,7 +28,7 @@ tomcat_group: "tomcat"
 Dependencies
 ------------
 
-Role [pescobar.java_oracle](https://galaxy.ansible.com/pescobar/java_oracle)
+Role [pescobar.java_openjdk](https://galaxy.ansible.com/pescobar/java_openjdk)
 
 
 Example Playbook
