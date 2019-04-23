@@ -18,7 +18,7 @@ tomcat_url: "http://apache.rediris.es/tomcat/tomcat-{{ tomcat_major_version }}/v
 
 tomcat_install_folder: "/opt"
 
-java_home: "/opt/java"
+tomcat_java_home: "/opt/java"
 
 tomcat_user: "tomcat"
 

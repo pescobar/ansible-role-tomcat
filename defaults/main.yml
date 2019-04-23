@@ -9,7 +9,7 @@ tomcat_url: "https://archive.apache.org/dist/tomcat/tomcat-{{ tomcat_major_versi
 
 tomcat_install_folder: "/opt"
 
-java_home: "/opt/java"
+tomcat_java_home: "/opt/java"
 
 tomcat_user: "tomcat"
 
