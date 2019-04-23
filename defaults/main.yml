@@ -1,7 +1,7 @@
 ---
 # defaults file for ansible-role-tomcat
 
-tomcat_version: "8.5.38"
+tomcat_version: "8.5.40"
 
 tomcat_major_version: "{{ tomcat_version.split('.')[0] }}"
 
